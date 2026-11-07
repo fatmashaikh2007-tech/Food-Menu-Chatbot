@@ -76,13 +76,13 @@ The chatbot follows this workflow:
 
 This screenshot shows the chatbot responding to a user's food menu query.
 
-Screenshot%202026-08-14%20144220.png
+![Chatbot Interaction](Screenshot%202026-08-14%20144220.png)
 
 ### Dataset Preview
 
 This screenshot shows the Swiggy dataset loaded for processing.
 
-Screenshot%202026-08-14%20144257.png
+![Dataset Preview](Screenshot%202026-08-14%20144257.png)
 
 ## 🚀 How to Run the Project
 
